@@ -1,0 +1,18 @@
+What is the difference between extending Exception Class & Runtime Exception Class?
+How to restrict Rest API requests to 1000 calls in 5 minutes in java?
+What is a functional interface?
+What is the difference between functional interface and interface? What is the benefit of creating a functional interface concept in java?
+Describe the way you design a Rest API to make it a secured one?
+On which parameters the connection pool size is calculated in Hibernates?
+Significance of @Embeddable and @Embedded annotations?
+How can we achieve a centralized way of exception handling when we have 1000 or more classes in our application?
+What is the use of interceptors?
+Use of profilers and how can we implement in java?
+Difference between Apache Tomcat and IBM WebSphere?
+Use of Comparator?
+What is the use of try with resources?
+How to perform Asynchronous Rest API in java?
+Use of @Transactional annotation?
+Explain the authentication and authorization scheme implemented in your project?
+How can we implement pagination in Hibernates?
+What is the alternative to Synchronized in multi-threading? (How can we avoid deadlocks without using Synchronized methods)  
